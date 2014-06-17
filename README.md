@@ -1,4 +1,4 @@
 Cmeans
 ======
 
-Data mining algorithm
+Cmeans clustering in java.
